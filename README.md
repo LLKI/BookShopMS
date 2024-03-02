@@ -42,3 +42,8 @@
 - 用户历史订单
   
   ![image](https://github.com/LLKI/BookShopMS/assets/92627079/5c679f96-0c32-4065-9480-4a7dfb88770a)
+
+  - 订单打印
+ 
+    ![image](https://github.com/LLKI/BookShopMS/assets/92627079/1185872e-1d79-4d74-b21c-459c99dedde5)
+
